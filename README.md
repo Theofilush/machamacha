@@ -63,7 +63,7 @@ Inspirations:
 
 ## Backend REST API Endpoints
 
-- Production: `https://machamacha.thandoyo.com`
+- Production: `https://machamacha-api.thandoyo.com`
 - Local: `http://localhost:3000`
 
 Priority:
