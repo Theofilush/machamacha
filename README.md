@@ -55,11 +55,11 @@ Inspirations:
 
 ### Home Page
 
-<img alt="Home Page" src="./images/home.png" width="400" />
+<img alt="Home Page" src="./images/home.jpg" width="400" />
 
 ### Product by Slug
 
-<img alt="Product by Slug" src="./images/product-by-slug.png" width="400" />
+<img alt="Product by Slug" src="./images/product-by-slug.jpg" width="400" />
 
 ## Backend REST API Endpoints
 
