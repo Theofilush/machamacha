@@ -7,7 +7,7 @@
 - Website/Frontend: <https://machamacha.thandoyo.com>
   - Backend API: <https://machamacha-api.thandoyo.com>
 - Repositories:
-  - General: <https://github.com/Theofilush/machamacha>
+  - General: <https://github.com/Theofilush/machamacha-online-store>
   - Backend API: <https://github.com/Theofilush/machamacha-api>
   - Frontend Web: <https://github.com/Theofilush/machamacha-web>
 - Project Management: <https://linear.app/machamacha-online-store>
@@ -63,7 +63,7 @@ Inspirations:
 
 ## Backend REST API Endpoints
 
-- Production: `https://machamacha.thandoyo.com`
+- Production: `https://machamacha-api.thandoyo.com`
 - Local: `http://localhost:3000`
 
 Priority:
